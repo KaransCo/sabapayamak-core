@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Karans</Authors>
+    <Company>Karans Co</Company>
+    <Description>.net core sdk for sabapayamak sdk</Description>
+    <PackageProjectUrl>https://github.com/KaransCo/sabapayamak-core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KaransCo/sabapayamak-core</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
