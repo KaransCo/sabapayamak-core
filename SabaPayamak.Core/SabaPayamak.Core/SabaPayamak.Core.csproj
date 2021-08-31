@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/KaransCo/sabapayamak-core</PackageProjectUrl>
     <RepositoryUrl>https://github.com/KaransCo/sabapayamak-core</RepositoryUrl>
     <PackageTags>Sapapayamak;Rest;API;SMS;Karans;</PackageTags>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
